@@ -12,11 +12,11 @@
    <li> :computer: Full-Stack web developer  </li>
    <li> :chart_with_upwards_trend: Mathematician </li>
    <li> ✨ I love programming ✨ </li>
-   <li> 🌱 I’m currently learning more mathematics and programming, focused to data, AI, and web development
-   <li>  I always search new ways to apply my knowlegdes in the solution of several problems, 
-    combining the best of two profiles: the abstract mathematical thinking and the programming abilities related to web development. </li>
+   <li> 🌱 I’m currently learning more mathematics and programming, focused on data, AI, and web development
+   <li>  Always I am looking for new ways to apply my knowlegdes in the solution of several problems, 
+    mixing the best of two profiles: the abstract mathematical thinking and the programming abilities related to web development. </li>
    <li> I like web development, data science and artificial intelligence, and mathematics. I like the relations between the areas earlier mentioned. </li>
-   <li> ⚡ Fun fact: as almost all programmer and mathematician, i love the coffeee ☕ 😃
+   <li> ⚡ Fun fact: as almost all programmer and mathematician, I love the coffee ☕ 😃
  </ul>
  </p> 
 </div>
@@ -42,13 +42,10 @@ const aboutMe = {
 ### 📫 How to reach me
 <div display="flex">
 
-<a href="linkedin.com"> 
- <img color="white" width="50px" src="https://cdn-icons-png.flaticon.com/512/1051/1051282.png"/>
- </a> 
+ <a src="https://www.linkedin.com/in/juan-david-piedrahita-l%C3%B3pez-ab9b57b2/?locale=en_US"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+ <a src="https://juandalopez117-portfolio.vercel.app/ "> <img src="https://img.icons8.com/color/48/internet.png"/></a>
 
- <a href="linkedin.com"> 
- <img color="white" width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/>
- </a>
+
  
 #### 👨🏻‍💻 My technologies: 
 
@@ -62,6 +59,8 @@ const aboutMe = {
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
+ <a href="https://sequelize.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a>
 <!--
 **juandalopez117/juandalopez117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
