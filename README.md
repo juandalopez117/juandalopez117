@@ -42,23 +42,22 @@ const aboutMe = {
 ### 📫 How to reach me
 <div display="flex">
 
- <a src="https://www.linkedin.com/in/juan-david-piedrahita-l%C3%B3pez-ab9b57b2/?locale=en_US"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
- <a src="https://juandalopez117-portfolio.vercel.app/ "> <img src="https://img.icons8.com/color/48/internet.png"/></a>
+ <a href="https://www.linkedin.com/in/juan-david-piedrahita-l%C3%B3pez-ab9b57b2/?locale=en_US"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+ <a href="https://juandalopez117-portfolio.vercel.app/ "> <img src="https://img.icons8.com/color/48/internet.png"/></a>
 
 
  
-#### 👨🏻‍💻 My technologies: 
-
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a src="https://www.postgresql.org//"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-<a src="https://mui.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+#### 👨🏻‍💻 Technologies: 
+<a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+<a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://www.postgresql.org//"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a href="https://mui.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+<a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
  <a href="https://sequelize.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a>
 <!--
