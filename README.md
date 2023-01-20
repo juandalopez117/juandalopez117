@@ -15,7 +15,7 @@
    <li>  I always search new ways to apply my knowlegdes in the solution of several problems, 
     combining the best of two profiles: the abstract mathematical thinking and the programming abilities related to web development. </li>
    <li> I like web development, data science and artificial intelligence, and mathematics. I like the relations between the areas earlier mentioned. </li>
-   <li> ⚡ Fun fact: as almost programmer and mathematician, i love the coffeee ☕ 😃
+   <li> ⚡ Fun fact: as almost all programmer and mathematician, i love the coffeee ☕ 😃
  </ul>
  </p> 
 </div>
