@@ -1,7 +1,13 @@
 ###  👋 Hi there, i'm Juan David  👋
 <div display="flex"> 
+ <div align="right" display="block"> 
+   <p> src: freepik </p>
+   <img alt='freepik' width="35%" align="right" src="https://img.freepik.com/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_39422-971.jpg?w=900&t=st=1674233186~exp=1674233786~hmac=687a440143a83ad4555a24703faf3d9d6491ec93128d73c0555ee902e47686b0" />
+  
+
+
+ </div>
  
- <img alt='freepik' width="35%" align="right" src="https://img.freepik.com/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_39422-971.jpg?w=900&t=st=1674233186~exp=1674233786~hmac=687a440143a83ad4555a24703faf3d9d6491ec93128d73c0555ee902e47686b0" />
 
 
 <div align="left"> 
