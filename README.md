@@ -3,12 +3,7 @@
  <div align="right" display="block"> 
    <p> src: freepik </p>
    <img alt='freepik' width="35%" align="right" src="https://img.freepik.com/vector-gratis/computadora-portatil-icono-isometrico-codigo-programa-desarrollo-software-aplicaciones-programacion-neon-oscuro_39422-971.jpg?w=900&t=st=1674233186~exp=1674233786~hmac=687a440143a83ad4555a24703faf3d9d6491ec93128d73c0555ee902e47686b0" />
-  
-
-
  </div>
- 
-
 
 <div align="left"> 
  <p> 
@@ -42,6 +37,14 @@ const aboutMe = {
   hobbies: ["reading", "exercise", "learning"],
 };
 ```
+
+### Connect with me:
+<div color="white">
+ <a href="linkedin.com"> 
+ <img color="white" width="20px" src="https://cdn-icons-png.flaticon.com/512/1051/1051282.png"/>
+ </a> 
+
+ <div>
 <!--
 **juandalopez117/juandalopez117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
