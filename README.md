@@ -41,7 +41,7 @@ const aboutMe = {
 
 ### 📫 How to reach me
 <div display="flex">
-
+ <p> Email: juandalopez117@gmail.com </p>
  <a href="https://www.linkedin.com/in/juan-david-piedrahita-l%C3%B3pez-ab9b57b2/?locale=en_US"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
  <a href="https://juandalopez117-portfolio.vercel.app/ "> <img src="https://img.icons8.com/color/48/internet.png"/></a>
 
