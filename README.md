@@ -21,9 +21,6 @@
  </p> 
 </div>
 </div>
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-
-
 
 #### A little bit about me: 
 ```javascript
@@ -65,10 +62,51 @@ const aboutMe = {
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
  <a href="https://sequelize.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a>
- </p>
- 
- #### 👨🏻‍💻 Projects: 
+</p>
 
+ ### :chart_with_upwards_trend: Projects: 
+ 
+ Mainly I have been focused, participated and created the following projects: 
+ ### ExoOtaku - web page 
+ 
+
+ExoOtaku is a page refactor of a online store in Argentina that makes and sells clothes related to anime and manga. It is a completely functional page that includes some features such as:
+  <ul>
+   <li> Responsive design </li>
+   <li> Great variety of filter and ordering </li>
+   <li> Images management and filtering </li>
+   <li> Database management </li> 
+   <li> User management (including user sessions, products rating by each user, wishlist and orderslist) </li>
+   <li> Payment gateway completely functional (made with stripe) that includes a completely functional cart </li>
+   <li> Admin panel </li> 
+ </ul>
+ 
+and a lot of features more....
+## Technologies
+The mainly technologies used in this project (made with excellent partners) are: 
+### :pushpin: Frontend
+ <ul>
+  <li> React </li>
+  <li> Redux </li> 
+  <li> Material UI (this includes the responsive design) </li>
+ </ul>
+ 
+  ### :pushpin: Backend
+ <ul>
+  <li> Express </li>
+  <li> Node.js </li> 
+  <li> Sequelize </li>
+  <li> PostgreSQL </li>
+ </ul>
+  
+<p>
+The user management was made with Auth0 (applied both backend and frontend) and the images management was made with cloudinary. You can see the fully deployed project <a href="https://pf-exo-otaku.vercel.app/">.
+ ![imagen](https://user-images.githubusercontent.com/77028323/213880503-f555d65e-dfc5-47da-b982-63edf53ebe06.png)
+
+</p>
+  
+
+  
  
 <!--
 **juandalopez117/juandalopez117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
