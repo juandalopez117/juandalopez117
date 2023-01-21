@@ -154,12 +154,18 @@ The mainly technologies used in this project are:
   <li> Python </li>
  </ul>
 
+
 ### :pushpin: Libraries: 
 <ul>
 <li> Matplotlib </li> 
   <li> Pandas </li>
 </ul>
+ 
+ This is a project that i will improve soonly. If you want to see the code, you can see it <a href="https://github.com/juandalopez117/ACO_Project"> here </a>
 
+<div  align="center">
+<img width="80%"src="https://github.com/juandalopez117/juandalopez117/blob/main/ACO.png?raw=true" /> 
+</div>
   
 
  
