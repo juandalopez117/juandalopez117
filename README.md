@@ -134,6 +134,37 @@ The mainly technologies used in this project are:
  </ul>
   
 You can see a little video about this project <a href="https://www.linkedin.com/feed/update/urn:li:activity:6984247289045209088/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3BbI011Q1RRxGtpS%2F0ORjqOQ%3D%3D"> here </a>
+
+<div  align="center">
+<img width="80%"src="https://github.com/juandalopez117/juandalopez117/blob/main/Countries.png?raw=true" /> 
+</div>
+
+## ACO Algortihm
+ 
+Is a visual algorithm that hels to identify the most optimal path between two given points. The algorithm is a a modification made by Akavall, and was modified for visual purposes. 
+
+and a little bit more...
+ 
+### Technologies
+The mainly technologies used in this project are: 
+
+### :pushpin: Language: 
+
+ <ul>
+  <li> Python </li>
+ </ul>
+
+### :pushpin: Libraries: 
+<ul>
+<li> Matplotlib </li> 
+  <li> Pandas </li>
+</ul>
+
+  
+
+ 
+
+
 <!--
 **juandalopez117/juandalopez117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
