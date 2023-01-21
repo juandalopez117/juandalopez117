@@ -67,7 +67,7 @@ const aboutMe = {
  ### :chart_with_upwards_trend: Projects: 
  
  Mainly I have been focused, participated and created the following projects: 
- ### ExoOtaku - web page 
+ ## ExoOtaku - web page 
  
 
 ExoOtaku is a page refactor of a online store in Argentina that makes and sells clothes related to anime and manga. It is a completely functional page that includes some features such as:
@@ -82,7 +82,7 @@ ExoOtaku is a page refactor of a online store in Argentina that makes and sells 
  </ul>
  
 and a lot of features more....
-## Technologies
+### Technologies
 The mainly technologies used in this project (made with excellent partners) are: 
 ### :pushpin: Frontend
  <ul>
@@ -100,14 +100,40 @@ The mainly technologies used in this project (made with excellent partners) are:
  </ul>
   
 <p>
-The user management was made with Auth0 (applied both backend and frontend) and the images management was made with cloudinary. You can see the fully deployed project <a href="https://pf-exo-otaku.vercel.app/">.
- ![imagen](https://user-images.githubusercontent.com/77028323/213880503-f555d65e-dfc5-47da-b982-63edf53ebe06.png)
-
+The user management was made with Auth0 (applied both backend and frontend) and the images management was made with cloudinary. You can see the fully deployed project <a href="https://pf-exo-otaku.vercel.app/"> here </a>
 </p>
+<div  align="center">
+<img width="80%"src="https://github.com/juandalopez117/juandalopez117/blob/main/ExOtaku.png?raw=true" /> 
+</div> 
   
-
-  
+## Countries App
  
+Countries App is a single page that allows see information about several countries, create and update several activities with a score in one or more countries. Saves the information of an external API into a database and that information is used in frontend. Some of the feautures of Countries App are:  
+  <ul>
+   <li> filter and ordering </li>
+   <li> Database management </li> 
+ </ul>
+
+and a little bit more...
+ 
+### Technologies
+The mainly technologies used in this project are: 
+### :pushpin: Frontend
+ <ul>
+  <li> React </li>
+  <li> Redux </li> 
+  <li> CSS modules </li>
+ </ul>
+ 
+  ### :pushpin: Backend
+ <ul>
+  <li> Express </li>
+  <li> Node.js </li> 
+  <li> Sequelize </li>
+  <li> PostgreSQL </li>
+ </ul>
+  
+You can see a little video about this project <a href="https://www.linkedin.com/feed/update/urn:li:activity:6984247289045209088/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3BbI011Q1RRxGtpS%2F0ORjqOQ%3D%3D"> here </a>
 <!--
 **juandalopez117/juandalopez117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
