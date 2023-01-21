@@ -21,6 +21,9 @@
  </p> 
 </div>
 </div>
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+
+
 
 #### A little bit about me: 
 ```javascript
@@ -47,9 +50,11 @@ const aboutMe = {
 
 
  
-#### 👨🏻‍💻 Technologies: 
+### 👨🏻‍💻 Technologies: 
+<p align="center"> 
 <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> 
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a href="https://www.postgresql.org//"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
@@ -60,6 +65,11 @@ const aboutMe = {
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
  <a href="https://sequelize.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a>
+ </p>
+ 
+ #### 👨🏻‍💻 Projects: 
+
+ 
 <!--
 **juandalopez117/juandalopez117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
